@@ -1,6 +1,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 int alpha[30];
+
 int main() {
     ifstream file; file.open("../dane/instrukcje.txt");
     string pol; char dod;
