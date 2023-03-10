@@ -19,5 +19,6 @@ int main() {
         int liczba; file>>liczba;
         if(isExpo[liczba]) ans++;
     }
-    cout<<ans;
+    
+    cout<<ans<<endl;
 }
